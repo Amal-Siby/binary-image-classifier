@@ -66,16 +66,16 @@ pip install -r requirements.txt
 
 # Launch the app
 python app.py
----
+
 📌 Once launched, Gradio opens in your browser automatically!
 
-🧪 Sample Output
+##🧪 Sample Output
 Upload a cat or dog image to get results like:
 
 🐶 Dog (91.56% confident)
 🐱 Cat (88.22% confident)
 
-🎓 About This Project
+##🎓 About This Project
 This project was developed as part of my AI/ML Internship to demonstrate:
 
 End-to-end image classification deployment
@@ -86,6 +86,6 @@ Confidence-driven UI predictions
 
 Great for recruiters, academic demos, or expanding into larger image classification systems!
 
-🤝 Connect with Me
+##🤝 Connect with Me
 <p align="left"> <a href="https://github.com/your-username" target="_blank"> <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github"> </a> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"> </a> </p>
 <p align="center"><i>“AI isn’t magic — it’s math and models. But packaging it well? That’s art.”</i></p> ```
