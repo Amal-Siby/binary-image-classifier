@@ -88,5 +88,5 @@ Confidence-driven UI predictions
 Great for recruiters, academic demos, or expanding into larger image classification systems!
 
 ##🤝 Connect with Me
-<p align="left"> <a href="https://github.com/Amal-Siby" target="_blank"> <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github"> </a> <a href="https://linkedin.com/in/your-link" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"> </a> </p>
+<p align="left"> <a href="https://github.com/Amal-Siby" target="_blank"> <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=flat-square&logo=github"> </a> <a href="https://www.linkedin.com/in/amalsiby247" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"> </a> </p>
 <p align="center"><i>“AI isn’t magic — it’s math and models. But packaging it well? That’s art.”</i></p> ```
