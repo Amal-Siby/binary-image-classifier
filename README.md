@@ -66,6 +66,7 @@ pip install -r requirements.txt
 
 # Launch the app
 python app.py
+---
 📌 Once launched, Gradio opens in your browser automatically!
 
 🧪 Sample Output
